@@ -63,7 +63,7 @@ const PageContent = () => {
         </div>
         {/* heading_div */}
         <div className="heading_div">
-          <h1>Puzzel Game</h1>
+          <h1>Puzzle Game</h1>
         </div>
         {/* input_div */}
         <div className=" input_div">
