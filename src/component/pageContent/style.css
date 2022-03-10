@@ -52,4 +52,7 @@
   border: 6px solid darkcyan;
   text-align: center;
   padding: 55px 0px;
+  color: darkcyan;
+  font-size: 25px;
+  font-weight: 600;
 }
