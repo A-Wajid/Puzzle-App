@@ -1,0 +1,55 @@
+.content_main_div .pop_up_message_container {
+  display: flex;
+  justify-content: center;
+}
+.content_main_div .pop_up_message_container .pop_up_width {
+  width: 25%;
+  position: absolute;
+  margin: 255px 0px 0px 0px;
+}
+.content_main_div .pop_up_message_container .pop_up_message_div {
+  box-shadow: 20px 20px 50px grey;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.content_main_div .pop_up_message_container .pop_up_message_div h1 {
+  background-color: blanchedalmond;
+  padding: 40px 27px;
+  border-radius: 15px;
+  color: darkcyan;
+}
+.content_main_div .heading_div {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0px;
+}
+.content_main_div .heading_div h1 {
+  margin: 0px;
+  color: black;
+  font-size: 40px;
+  font-weight: 600;
+}
+.content_main_div .input_div {
+  display: flex;
+  justify-content: center;
+}
+
+.content_main_div .input_div input {
+  border: 2px solid darkcyan;
+}
+.content_main_div .grid_box_main_div {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0px 60px 0px;
+}
+.content_main_div .grid_container {
+  border: 8px solid darkcyan;
+  width: 35%;
+  flex-wrap: wrap;
+}
+.content_main_div .grid_container .grid_items {
+  background-color: lightgray;
+  border: 6px solid darkcyan;
+  text-align: center;
+  padding: 55px 0px;
+}

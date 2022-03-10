@@ -1,0 +1,7 @@
+.Logo_div{
+    display: flex;
+    justify-content: flex-end;
+}
+.Logo_div img{
+    height: 120px;
+}
